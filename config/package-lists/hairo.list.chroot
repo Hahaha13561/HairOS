@@ -1,0 +1,34 @@
+# Masaüstü ve Görüntü Yöneticisi (Windows Düzeni İçin)
+xfce4
+xfce4-goodies
+lightdm
+
+# Temel Araçlar
+alacritty
+zsh
+network-manager-gnome
+flatpak
+curl
+wget
+git
+nano
+sudo
+
+# Sürücüler
+mesa-vulkan-drivers
+libgl1-mesa-dri
+
+# Live USB
+live-boot
+live-config
+live-config-systemd
+
+# Pardus Araçları
+gnome-software
+gnome-software-plugin-flatpak
+pardus-power-managergit push -u origin main
+pardus-pen
+pardus-archive-keyring
+papirus-icon-theme
+arc-theme
+xfce4-whiskermenu-plugin

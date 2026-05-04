@@ -1,0 +1,7 @@
+.build/
+chroot/
+binary/
+local/
+cache/
+*.iso
+*.deb
